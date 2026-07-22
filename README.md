@@ -181,25 +181,6 @@ This certification focuses on Natural Language Processing and Machine Learning t
 
 ---
 
-# 📁 Repository Structure
-
-```
-Professional-Certificates/
-│
-├── AWS Academy/
-│   ├── Cloud Foundations
-│   ├── Data Engineering
-│   ├── Machine Learning Foundations
-│   ├── Machine Learning for NLP
-│   └── AWS Badges
-│
-├── LinkedIn Learning/
-│   └── Java Object-Oriented Programming
-│
-└── README.md
-```
-
----
 
 # 👨‍💻 Author
 
